@@ -8,7 +8,7 @@ c = float(input("Masukkan bilangan ketiga: "))
 # Menentukan bilangan terbesar
 if a >= b and a >= c:
     terbesar = a
-if b >= a and b >= c:
+elif b >= a and b >= c:
     terbesar = b
 else:
     terbesar = c
