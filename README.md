@@ -1,4 +1,4 @@
-Praktikum 3 - Menentukan Bilangan Terbesar
+# Praktikum 3 - Menentukan Bilangan Terbesar
 
 Tujuan
 Latihan ini bertujuan untuk memahami:
