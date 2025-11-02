@@ -16,8 +16,8 @@ Penjelasan Program
 3. Bilangan terbesar akan disimpan di variabel `terbesar`
 4. Program menampilkan hasil ke layar
 
-Screenshot Hasil Eksekusi
-Terdapat screenshot dan hasil program ada di file screenshot
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6e1f9d52-70d5-43f5-aa27-9e31873ae6b7" />
+
 
 Contoh Output:
 Masukkan bilangan pertama: 22 
